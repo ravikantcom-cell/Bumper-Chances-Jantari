@@ -51,6 +51,51 @@
       },
       "oauth_client": [
         {
+          "client_id": "588853091742-6d0v14igqatqttvkbn2jnlgrqcncem3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.guess.admin",
+            "certificate_hash": "6926e68358c1f998a5d61988bf2e7d085bef7057"
+          }
+        },
+        {
+          "client_id": "588853091742-eotree5pbb5c6nb990v2ei6qije5edia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgRvhV1eewElpdICbioPD-yuq9IdW5Bng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588853091742-eotree5pbb5c6nb990v2ei6qije5edia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588853091742:android:58675603a97ef9f9fb8a8f",
+        "android_client_info": {
+          "package_name": "com.ravikant.bumperchancesjantari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588853091742-c2v779ng1v433lp4p9v9imt8k44555q8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ravikant.bumperchancesjantari",
+            "certificate_hash": "6926e68358c1f998a5d61988bf2e7d085bef7057"
+          }
+        },
+        {
           "client_id": "588853091742-eotree5pbb5c6nb990v2ei6qije5edia.apps.googleusercontent.com",
           "client_type": 3
         }

@@ -19,3 +19,8 @@ creates only missing documents, never overwrites live results, and does not dele
 Firestore Admin SDK has elevated privileges and bypasses Security Rules: only execute locally.
 
 This file does NOT modify historical_data.dart or any Bumper calculation rules.
+
+
+Generating 3,072 bit RSA key pair and self-signed certificate (SHA256withRSA) with a validity of 10,000 days
+        for: CN=Ravi Gautam, OU=Individual, O=Individual, L=New Delhi, ST=Delhi, C=IN
+[Storing C:\Users\ravik\bumper-upload-key-final.jks] - Jantri123!@#

@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyCgRvhV1eewElpdICbioPD-yuq9IdW5Bng',
-    appId: '1:588853091742:android:d801fcefcdb4397efb8a8f',
+    appId: '1:588853091742:android:58675603a97ef9f9fb8a8f',
     messagingSenderId: '588853091742',
     projectId: 'guessing-number-bd0f3',
     storageBucket: 'guessing-number-bd0f3.firebasestorage.app',
